@@ -17,6 +17,12 @@ h2 {
   text-align:center;
 }
 
+p {
+  border: 8px outset #3c3c3c; 
+  background-color: #b4b4b4; 
+  text-align: left;
+}
+  
 
 table, th, td {
 border-collapse: collapse;
