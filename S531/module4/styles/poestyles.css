@@ -18,6 +18,12 @@ div.body {
   box-sizing: border-box;
 } 
 
+div.lenore {
+  background-image: url("../styles/images/lenore.png")
+  background-repeat: no-repeat;
+  background-position: right;
+}
+
 h1 {
   color: #F9F9F9;
   text-align:center;
