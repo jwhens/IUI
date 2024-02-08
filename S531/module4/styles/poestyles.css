@@ -1,5 +1,5 @@
 body {
-background-image: url("/images/poe.jpg");
+background-image: url("../images/poe.jpg");
 max-width: 60em;
 margin: 0 auto 0 auto;
 }
