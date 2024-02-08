@@ -9,7 +9,6 @@ background-repeat: no-repeat;
 background-position: right bottom;
 }
 
-/*the global changes*/
 div.body {
   border: 8px outset #2d2d2d; 
   background-color: #d2c8b6; text-align: left;
@@ -22,7 +21,7 @@ h1 {
   text-align:center;
 }
 
-/*specific to certain pieces*/
+/*specific to certain pieces of certain pages*/
 
 div.lenore {
   background-image: url("../styles/images/eye.png");
