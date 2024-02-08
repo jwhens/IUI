@@ -1,7 +1,9 @@
+/*shared across every page, Jay, get it together*/
 body { 
-background: #616161;
+background: #8c8484;
 max-width: 60em;
 margin-left: 80px;
+margin-right: 200px;
 background-image: url("../styles/images/poe-portrait.png");
 background-repeat: no-repeat;
 background-position: right bottom;
@@ -10,8 +12,8 @@ background-position: right bottom;
 
 
 div.body {
-  border: 8px outset #3c3c3c; 
-  background-color: #b4b4b4; text-align: left;
+  border: 8px outset #2d2d2d; 
+  background-color: #d2c8b6; text-align: left;
   padding: 25px;
   box-sizing: border-box;
 } 
