@@ -1,8 +1,13 @@
-body {
-h1: color #800000; 
+body { 
 background: #DCDCDC;
 max-width: 60em;
 margin: 0 auto 0 auto;
+}
+
+p {
+background-image: url("/images/eye.png");
+background-repeat: no-repeat;
+background-position: bottom;
 }
 
 table, th, td {
