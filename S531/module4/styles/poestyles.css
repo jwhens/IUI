@@ -5,6 +5,7 @@ margin-left: 80px;
 background-image: url("/images/eye.png");
 background-repeat: no-repeat;
 background-position: bottom;
+border: 8px outset #3c3c3c; background-color: #b4b4b4;
 }
 
 h1 {
