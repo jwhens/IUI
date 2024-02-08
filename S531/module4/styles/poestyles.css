@@ -13,6 +13,7 @@ div.body {
   border: 8px outset #3c3c3c; 
   background-color: #b4b4b4; text-align: left;
   padding: 25px
+  box-sizing: border-box;
 } 
 
 h1 {
