@@ -4,7 +4,7 @@ max-width: 60em;
 margin-left: 80px;
 background-image: url("../styles/images/eye.png");
 background-repeat: no-repeat;
-background-position: bottom;
+background-position: right top;
 border: 8px outset #3c3c3c; 
 }
 
