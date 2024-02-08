@@ -2,7 +2,7 @@ body {
 background: #616161;
 max-width: 60em;
 margin-left: 80px;
-background-image: url("/images/eye.png");
+background-image: url("../styles/images/eye.png");
 background-repeat: no-repeat;
 background-position: bottom;
 border: 8px outset #3c3c3c; background-color: #b4b4b4; text-align: left; 
