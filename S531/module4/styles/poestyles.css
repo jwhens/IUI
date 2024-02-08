@@ -9,7 +9,8 @@ background-position: right top;
 
 div.body {
   border: 8px outset #3c3c3c; 
-  background-color: #b4b4b4; text-align: left; 
+  background-color: #b4b4b4; text-align: left;
+  padding: 25px
 } 
 
 h1 {
@@ -19,7 +20,8 @@ h1 {
 
 h2 {
   color: #F9F9F9;
-  text-align:center;
+  text-align: left;
+  padding: 
 }
   
 table, th, td {
