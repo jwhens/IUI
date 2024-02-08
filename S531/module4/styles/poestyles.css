@@ -19,7 +19,7 @@ div.body {
 } 
 
 div.lenore {
-  background-image: url("../styles/images/lenore.jpg")
+  background-image: url("../styles/images/lenore.jpg");
   background-repeat: no-repeat;
   background-position: right;
 }
