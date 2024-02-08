@@ -1,13 +1,19 @@
 body { 
 background: #DCDCDC;
 max-width: 60em;
-margin: 0 auto 0 auto;
+margin-left: 80px;
 background-image: url("/images/eye.png");
 background-repeat: no-repeat;
 background-position: bottom;
 }
 
-h1{
+h1 {
+  color: #F9F9F9;
+  text-align:center;
+}
+
+h2 {
+  color: #F9F9F9;
   text-align:center;
 }
 
