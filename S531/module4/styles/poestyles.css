@@ -5,8 +5,12 @@ margin-left: 80px;
 background-image: url("../styles/images/eye.png");
 background-repeat: no-repeat;
 background-position: bottom;
-border: 8px outset #3c3c3c; background-color: #b4b4b4; text-align: left; 
+border: 8px outset #3c3c3c; 
 }
+
+div {
+  background-color: #b4b4b4; text-align: left; 
+} 
 
 h1 {
   color: #F9F9F9;
