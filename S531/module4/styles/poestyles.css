@@ -39,6 +39,15 @@ h2.other {
   text-align: left;
 }
 
+/*let's fix that list so it's prettier*/
+
+ul {
+  background: #d2c8b6; 
+  list-style-image: url("../styles/images/raven.jpg");
+  padding: 50px;
+}
+  
+
 /*this table is gonna drive me nuts*/
 
 table, th, td {
