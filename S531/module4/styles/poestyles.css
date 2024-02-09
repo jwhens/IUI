@@ -44,7 +44,7 @@ h2.other {
 ul {
   list-style-image: url("../styles/images/raven.jpg");
   list-style-type: none;
-  margin: 0;
+  margin-left: 80px;
   padding: 0;
   width: 100px;
 } 
