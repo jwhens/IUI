@@ -39,13 +39,14 @@ h2.other {
   text-align: left;
 }
 
-/*let's fix that list so it's prettier*/
+/*let's fix that list so it's just slightly less unsightly*/
 
 ul {
-  background: #d2c8b6; 
+  background-color: #d2c8b6; 
   list-style-image: url("../styles/images/raven.jpg");
   padding: 50px;
-  border: 8px outset #2d2d2d;
+  border: 20px 5px;
+  border-style: hidden;
 }
   
 
