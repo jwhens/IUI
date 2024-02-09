@@ -42,13 +42,22 @@ h2.other {
 /*let's fix that list so it's just slightly less unsightly*/
 
 ul {
-  background-color: #d2c8b6; 
   list-style-image: url("../styles/images/raven.jpg");
-  padding: 50px;
-  border: 20px 5px;
-  border-style: hidden;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 60px;
+} 
+
+li a {
+  display: block;
+  background-color: #d2c8b6;
 }
-  
+
+li a:hover {
+  background-color: #555;
+  color: white;
+}
 
 /*this table is gonna drive me nuts*/
 
