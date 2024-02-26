@@ -35,9 +35,21 @@
         }
 
 
-        ul li {
-            list-style-type: none;
-        }
+    ul li {
+             
+  margin-left: 80px;
+  padding: 0;
+  width: 100px;
+} 
+
+li a {
+  display: block;
+}
+
+li a:hover {
+  background-color: #555;
+  color: white;
+}
 
 
         /*FIRST BREAK POINT === tablet */
