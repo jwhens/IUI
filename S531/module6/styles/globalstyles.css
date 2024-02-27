@@ -107,6 +107,13 @@
 		text-indent: 10%;
 		font-family: "Poppins"; sans-serif;
 
+	@font-face: { myFirstFont;
+		src: url("images/futurahandwritten.tff");
+
+	* {
+		font-family: myFirstFont;
+	}
+		
 
 
         /*FIRST BREAK POINT === tablet */
