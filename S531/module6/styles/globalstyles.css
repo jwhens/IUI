@@ -109,8 +109,8 @@
 
 	@font-face {
 		font-family: "source_sand_prosemibold";
-		src: url("fonts/sourcesanspro-semibold-webfont.woff2") format("woff2");
-		src: url("fonts/sourcesanspro-semibold-webfont.woff") format("woff");
+		src: url("font/sourcesanspro-semibold-webfont.woff2") format("woff2");
+		src: url("font/sourcesanspro-semibold-webfont.woff") format("woff");
 		font-weight: normal;
 		font-style: normal;
 	}
