@@ -121,6 +121,11 @@
   		margin: 0;
 	}
 
+	body {
+ 		width: 80%;
+ 		max-width: 800px;
+  		margin: 0 auto;
+		}
 
 /*FROM HERE ON OUT IS ALL ABOUT RWD, JASPER*/
 
