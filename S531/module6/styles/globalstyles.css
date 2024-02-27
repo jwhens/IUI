@@ -14,6 +14,39 @@
 		align-content: center;
   	}
 
+	/*aight let's get a lil fancy w/ the nav bar*/
+	
+	.menu {
+		ul {
+			list-style-type: none;
+ 			margin: 0;
+  			padding: 0;
+ 			overflow: hidden;
+  			background-color: #7fa49c;
+		}
+
+		li {
+  			float: left;
+		}
+
+		li a {
+  			display: block;
+  			color: #e1f7f9;
+  			text-align: center;
+  			padding: 14px 16px;
+  			text-decoration: none;
+			border-right: 1px solid #e1f7f9;
+		}
+
+		li a:hover {
+ 			background-color: #86b7b9;
+		}
+
+		.active {
+ 			background-color: #809ba1;
+		}
+	}
+
 	body {
 		background: #e1f7f9;
 	}
@@ -57,53 +90,7 @@
   		padding: 0;
 	}
 
-        .grid-container {
-            display: grid;
-            grid-template-areas:
-                'header header header header header header'
-		'nav nav nav nav nav nav'
-                'main main main main main aside1'
-                'main main main main main aside1'
-                'footer footer footer footer footer footer';
-            grid-gap: .5em;
-			max-width: 62em; /* GIVE CONTAINER A WIDTH AND MARGINS IF YOU DO NOT WANT FULL SCREEN */
-			margin: auto;
-	}
-
-	/*aight let's get a lil fancy w/ the nav bar*/
-	
-.menu {
-	ul {
-		list-style-type: none;
- 		margin: 0;
-  		padding: 0;
- 		overflow: hidden;
-  		background-color: #7fa49c;
-	}
-
-	li {
-  		float: left;
-	}
-
-	li a {
-  		display: block;
-  		color: #e1f7f9;
-  		text-align: center;
-  		padding: 14px 16px;
-  		text-decoration: none;
-		border-right: 1px solid #e1f7f9;
-	}
-
-	li a:hover {
- 		background-color: #86b7b9;
-	}
-
-	.active {
- 		background-color: #809ba1;
-	}
-}
-
-/*global text things, idk if it'll work*/
+/*GLOBAL TEXT CHANGES*/
 
 	h1,h2,h3 {
 		text-align: center;
@@ -116,7 +103,7 @@
 		font-family: "source_sand_prosemibold"; sans-serif;
 	}
 
-/*figuring out the font*/
+/*THE FONT ISSUE*/
 
 	@font-face {
 		font-family: "source_sand_prosemibold";
@@ -127,8 +114,21 @@
 		font-weight: normal;
 		font-style: normal;
 	}
-		
-		
+
+/*FROM HERE ON OUT IS ALL ABOUT RWD, JASPER*/
+
+        .grid-container {
+            display: grid;
+            grid-template-areas:
+                'header header header header header header'
+		'nav nav nav nav nav nav'
+                'main main main main main aside1'
+                'main main main main main aside1'
+                'footer footer footer footer footer footer';
+            grid-gap: .5em;
+			max-width: 62em; /* GIVE CONTAINER A WIDTH AND MARGINS IF YOU DO NOT WANT FULL SCREEN */
+			margin: auto;
+	}
 
 
         /*FIRST BREAK POINT === tablet */
