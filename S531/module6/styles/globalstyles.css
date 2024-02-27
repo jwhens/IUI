@@ -87,17 +87,10 @@
 
 	h1,h2,h3 {
 		text-align: center;
-	}
-		
-
-	@font-face {
-   		font-family: futura handwritten;
-  		 src: url("images/futurahandwritten.tff");
+		font-family: "Poppins"; sans-serif;
 	}
 
-	* {
-	   font-family: futura handwritten;
-	}
+
 
 /*let's be fancy for a moment, you can do this*/
 
