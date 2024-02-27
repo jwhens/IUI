@@ -1,6 +1,8 @@
         header {
             grid-area: header;
             background-color: yellow;
+		border-radius: 15%;
+		padding: 5%;
         }
 
         nav {
@@ -8,6 +10,7 @@
             background: url("images/waves.jpg");
 		background-size: cover;
 		border-radius: 15%;
+		padding: 5%;
   		
         }
 
@@ -15,6 +18,7 @@
             grid-area: main;
             background-color: orange;
 		border-radius: 15%;
+		padding: 5%;
         }
 
 	img {
@@ -32,6 +36,7 @@
             grid-area: aside1;
             background-color: blue;
 		border-radius: 15%;
+		padding: 5%;
         }
 		
 
@@ -39,13 +44,15 @@
             grid-area: aside2;
             background-color: pink;
 		border-radius: 15%;
+		padding: 5%;
         }
 		
 
         footer {
             grid-area: footer;
             background: url("images/sand.jpg");
-		border-radius: 15%
+		border-radius: 15%;
+		padding: 5%;
         }
 
         .grid-container {
@@ -109,7 +116,7 @@
         /*FIRST BREAK POINT === tablet */
         @media only screen and (max-width : 900px) {
             body {
-                background: blue;
+                background: white;
             }
 
             .grid-container {
@@ -133,7 +140,7 @@
         @media only screen and (max-width : 600px) {
 
             body {
-                background: fuchsia;
+                background: white;
             }
 
             .grid-container {
