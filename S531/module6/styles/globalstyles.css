@@ -16,7 +16,7 @@
 
         main {
             grid-area: main;
-            background-color: orange;
+            background-color: ##91d4cc;
 		border-radius: 15%;
 		padding: 5%;
         }
@@ -34,7 +34,7 @@
 
         .aside1 {
             grid-area: aside1;
-            background-color: blue;
+            background-color: #bddbe4;
 		border-radius: 15%;
 		padding: 5%;
         }
@@ -42,7 +42,7 @@
 
         .aside2 {
             grid-area: aside2;
-            background-color: pink;
+            background-color: #b3d1d4;
 		border-radius: 15%;
 		padding: 5%;
         }
@@ -98,7 +98,7 @@
 /*let's be fancy for a moment, you can do this*/
 
 	.button {
-		background-color: #04AA6D;
+		background-color: #809ba1;
 		border: none;
  		color: white;
  		padding: 15px 32px;
@@ -116,7 +116,7 @@
         /*FIRST BREAK POINT === tablet */
         @media only screen and (max-width : 900px) {
             body {
-                background: white;
+                background: #c0e6e8;
             }
 
             .grid-container {
@@ -140,7 +140,7 @@
         @media only screen and (max-width : 600px) {
 
             body {
-                background: white;
+                background: #e1f7f9;
             }
 
             .grid-container {
