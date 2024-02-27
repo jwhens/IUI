@@ -16,7 +16,7 @@
 
         main {
             grid-area: main;
-            background-color: ##91d4cc;
+            background-color: #91d4cc;
 		border-radius: 15%;
 		padding: 5%;
         }
@@ -34,7 +34,7 @@
 
         .aside1 {
             grid-area: aside1;
-            background-color: #bddbe4;
+            background-color: #c0e6e8;
 		border-radius: 15%;
 		padding: 5%;
         }
