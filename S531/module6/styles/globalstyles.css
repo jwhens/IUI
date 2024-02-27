@@ -25,9 +25,13 @@
 		padding: 5%;
         }
 
-	img {
+	img.a {
 		max-width: 100%;
 		border-radius: 50%;
+	}
+
+	img.b {
+		max-width: 100%;
 	}
 
 	figure {
