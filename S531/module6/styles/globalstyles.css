@@ -41,7 +41,7 @@
 
         footer {
             grid-area: footer;
-            background-color: green;
+            background: url("images/sand.jpg");
         }
 
         .grid-container {
@@ -77,7 +77,7 @@
 
 	@font-face {
    		font-family: futura handwritten;
-  		 src: url("../styles/images/futurahandwritten.tff");
+  		 src: url("images/futurahandwritten.tff");
 	}
 
 	* {
