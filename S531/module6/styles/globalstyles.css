@@ -5,7 +5,7 @@
 
         nav {
             grid-area: nav;
-            background: url(../images/waves.jpg);
+            background: url(images/waves.jpg);
 		background-size: cover;
 		border-radius: 50%;
   		
@@ -80,6 +80,7 @@ li a:hover {
 * {
    font-family: futura handwritten;
 }
+
 /*let's be fancy for a moment, you can do this*/
 
 	.button {
