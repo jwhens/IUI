@@ -70,6 +70,16 @@ li a:hover {
   color: white;
 }
 
+/*global font things, idk if it'll work*/
+
+@font-face {
+   font-family: futura handwritten;
+   src: url(images/futurahandwritten.tff);
+}
+
+* {
+   font-family: myFirstFont;
+}
 /*let's be fancy for a moment, you can do this*/
 
 	.button {
