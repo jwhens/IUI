@@ -90,6 +90,12 @@
 		font-family: "Poppins"; sans-serif;
 	}
 
+	p {
+		text-align: left;
+		text-align-last: justify;
+		text-indent: 10%;
+		font-family: "Poppins"; sans-serif;
+		
 
 
 /*let's be fancy for a moment, you can do this*/
