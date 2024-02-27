@@ -14,6 +14,7 @@
         main {
             grid-area: main;
             background-color: orange;
+		border-radius: 15%;
         }
 
 	img {
@@ -30,18 +31,21 @@
         .aside1 {
             grid-area: aside1;
             background-color: blue;
+		border-radius: 15%;
         }
 		
 
         .aside2 {
             grid-area: aside2;
             background-color: pink;
+		border-radius: 15%;
         }
 		
 
         footer {
             grid-area: footer;
             background: url("images/sand.jpg");
+		border-radius: 15%
         }
 
         .grid-container {
@@ -58,7 +62,7 @@
 
 
        	 ul li {
-               margin-left: 80px;
+               margin-left: 40px;
  		padding: 0;
  		 width: 100px;
 	} 
