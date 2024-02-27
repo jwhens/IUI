@@ -64,6 +64,8 @@
 			margin: auto;
 	}
 
+	/*aight let's get a lil fancy w/ the nav bar*/
+
 	ul {
 		list-style-type: none;
  		margin: 0;
@@ -78,14 +80,19 @@
 
 	li a {
   		display: block;
-  		color: white;
+  		color: #e1f7f9;
   		text-align: center;
   		padding: 14px 16px;
   		text-decoration: none;
+		border-right: 1px solid #e1f7f9;
 	}
 
 	li a:hover {
  		background-color: #86b7b9;
+	}
+
+	.active {
+ 		background-color: #c0e6e8;
 	}
 
 /*global font things, idk if it'll work*/
