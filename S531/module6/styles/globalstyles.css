@@ -108,14 +108,15 @@
 		font-family: "Poppins"; sans-serif;
 
 /*figuring out the font*/
-		
-	@font-face: { 
-		font-family: "futura handwritten";
-		src: url("images/futurahandwritten.tff");
-	}
 
-	html: {
-		font-family: "futura handwritten"; sans-serif;
+	@font-face: {
+		font-family: "source_sand_prosemibold";
+		src: url("fonts/sourcesanspro-semibold-webfont.woff2")
+		format("woff2");
+			url("fonts/sourcesanspro-semibold-webfont.woff");
+		format("woff");
+		font-weight: normal;
+		font-style: normal;
 	}
 		
 		
