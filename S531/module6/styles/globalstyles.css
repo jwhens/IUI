@@ -44,15 +44,6 @@
 		padding: 5%;
         }
 		
-
-        .aside2 {
-            grid-area: aside2;
-            background-color: #b3d1d4;
-		border-radius: 15%;
-		padding: 5%;
-        }
-		
-
         footer {
             grid-area: footer;
             background: url("images/sand.jpg");
