@@ -126,7 +126,8 @@
  		max-width: 800px;
   		margin: 0 auto;
 		}
-	
+
+/*specifics to typography*/
 	h1 {
   		font-size: 3.2rem;
 	}
