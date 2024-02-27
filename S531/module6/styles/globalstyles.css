@@ -51,6 +51,12 @@
 		padding: 5%;
         }
 
+	.contact {
+		list-style-type: none;
+ 		margin: 0;
+  		padding: 0;
+	}
+
         .grid-container {
             display: grid;
             grid-template-areas:
