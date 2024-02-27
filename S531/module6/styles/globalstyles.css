@@ -14,6 +14,10 @@
   		
         }
 
+	body {
+		background: #e1f7f9;
+	}
+
         main {
             grid-area: main;
             background-color: #91d4cc;
