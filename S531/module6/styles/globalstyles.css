@@ -65,7 +65,8 @@
 	}
 
 	/*aight let's get a lil fancy w/ the nav bar*/
-
+	
+.menu {
 	ul {
 		list-style-type: none;
  		margin: 0;
@@ -94,6 +95,7 @@
 	.active {
  		background-color: #809ba1;
 	}
+}
 
 /*global text things, idk if it'll work*/
 
