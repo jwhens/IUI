@@ -76,7 +76,9 @@
 		border-radius: 15%;
 		padding: 5%;
         }
-		
+
+/*ORGANISE THE FOOTER*/
+
         footer {
             grid-area: footer;
             background: url("images/sand.jpg");
