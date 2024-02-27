@@ -117,6 +117,13 @@
 		font-style: normal;
 	}
 
+	html {
+		font-family: "source_sand_prosemibold"; Sans-Serif;
+		font-size: 10px;
+  		margin: 0;
+	}
+
+
 /*FROM HERE ON OUT IS ALL ABOUT RWD, JASPER*/
 
         .grid-container {
